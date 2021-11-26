@@ -1,0 +1,20 @@
+#submit_button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#sort_button {
+  display: none;
+  margin: 20px;
+  margin-bottom: 20px;
+}
+
+input {
+  margin: 10px;
+}
+
+body {
+  background-color: darksalmon;
+  color: darkslateblue;
+  font: size 25px;
+}
